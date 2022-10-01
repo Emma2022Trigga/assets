@@ -1,14 +1,13 @@
 {
-    "name": "Polygon",
-    "website": "https://polygon.technology/",
-    "short_description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "description": "Polygon (Matic) strives to solve the scalability and usability issues, while not compromising on decentralization and leveraging the existing developer community and ecosystem",
-    "explorer": "https://polygonscan.com/",
-    "research": "https://docs.matic.network/",
-    "type": "coin",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "status": "active",
+    "name": "Google coin",
+    "website": "https://wwww.googlecoin/",
+    "short_description": "Googlecoin (GCOIN)-the Google Coin Token, which is based on our Bancor protocol. It’s important to emphasize that this is not a for-profit startup fundraising round, nor is this a basic application token.",
+    "description": "GoogleCoin (GCOIN)-We decided to launch a Token Allocation Event because we had a design for a promising protocol token – GCOIN, the Google Coin Token, which is based on our Bancor protocol. It’s important to emphasize that this is not a for-profit startup fundraising round, nor is this a basic application token. The fundraiser was executed by a Swiss non-profit foundation, that has a mandate to use its funds in order to develop and promote the open-source Bancor protocol. On top of this we (and others) can build and operate services, such as the “Google coin” service, which will provide a simple to use UX for issuing, using, transferring, purchasing and liquidating “Smart tokens”. Smart tokens use the Bancor protocol to ensure their continuous liquidity to any other liquid store-of-value (WMATIC and USDT etc.) GCOIN will serve as a backbone, liquidity providing token for all user-generated smart tokens that will hold it in reserve, linking all these new tokens to each other, and to ETH and other existing currencies",
+    "explorer": "https://polygonscan.com/token/0xd3ec96be1f69722aded7d54f6dfce6eb51e2d2c9",
+    "type": "Token",
+    "symbol": "GCOIN",
+    "decimals": 6,
+    "status": "inactive",
     "links": [
         {
             "name": "github",
@@ -16,15 +15,12 @@
         },
         {
             "name": "twitter",
-            "url": "https://twitter.com/0xPolygon"
+            "url": "https://twitter.com/googlecoin05/"
         },
         {
             "name": "reddit",
-            "url": "https://reddit.com/r/maticnetwork/"
+            "url": "https://reddit.com/googlecoin05/"
         },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/maticnetwork/whitepaper"
         }
     ]
 }
